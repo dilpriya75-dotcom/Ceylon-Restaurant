@@ -1,2 +1,2 @@
 # Ceylon-Restaurant
-CEYLON Restaurant(pas dun rata)
+CEYLON Restaurant(පස්දුන් රට)
